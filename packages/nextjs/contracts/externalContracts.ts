@@ -14,7 +14,7 @@ import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 const externalContracts = {
     17000:{
         SideBitV6:{
-            address:"0x247e36Ca470d2e9f9C327F68Da1225FA7BF0772C",
+            address:"0x04BDfAEd3B6559438290744C389b36AfA14a095E",
             abi:[
                 {
                     "inputs": [
